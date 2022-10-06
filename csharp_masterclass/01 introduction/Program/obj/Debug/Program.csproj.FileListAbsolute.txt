@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\bin\Debug\Program.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\bin\Debug\Program.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\bin\Debug\Program.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\obj\Debug\Program.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Program\obj\Debug\Program.pdb
