@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\bin\Debug\02Control.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\bin\Debug\02Control.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\bin\Debug\02Control.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\obj\Debug\02Control.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\obj\Debug\02Control.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\obj\Debug\02Control.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\02Control\obj\Debug\02Control.pdb
