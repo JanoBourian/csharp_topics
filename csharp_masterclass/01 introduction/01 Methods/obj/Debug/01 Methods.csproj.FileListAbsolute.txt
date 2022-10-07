@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\bin\Debug\01 Methods.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\bin\Debug\01 Methods.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\bin\Debug\01 Methods.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\obj\Debug\01 Methods.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\obj\Debug\01 Methods.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\obj\Debug\01 Methods.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\01 Methods\obj\Debug\01 Methods.pdb
