@@ -25,7 +25,6 @@ namespace Program
         }
     }
 }
-
 ```
 
 Conversions:
@@ -78,6 +77,8 @@ const double PI = 3.141516;
 ```
 
 ## Methods and Try-Catch-Finally
+
+If you want throw a new Exception you can use "throw new Exception("Some text about the exception");"
 
 ```cs
 using System;
@@ -147,7 +148,6 @@ namespace _01_Methods
         }
     }
 }
-
 ```
 
 ## Operators
@@ -227,7 +227,6 @@ namespace _02Control
         }
     }
 }
-
 ```
 
 ## Control with switch statment
@@ -310,7 +309,6 @@ namespace _03Loops
         }
     }
 }
-
 ```
 
 ## Objects :S
@@ -358,7 +356,6 @@ namespace AObjects
 
     }
 }
-
 ```
 
 Calling it
@@ -382,19 +379,153 @@ namespace AObjects
         }
     }
 }
-
 ```
 
-```cs
-```
+## Get and set inside of class
 
 ```cs
+using System;
+
+namespace AObjects
+{
+    class Box
+    {
+        // I'll create a first vars
+        private float height;
+        private float width;
+        private float depth;
+        private float volumen;
+        private string box_name;
+
+        // Basic constructor
+        public Box(float height, float width, float depth)
+        {
+            this.height = height;
+            this.width = width;
+            this.depth = depth;
+            this.volumen = this.set_volumen();
+        }
+
+        private float set_volumen()
+        {
+            return this.height * this.width * this.depth;
+        }
+
+        public float get_volumen()
+        {
+            return this.volumen;
+        }
+
+        // Auto implemented property
+        public string BoxName
+        {
+            get
+            {
+                return this.box_name;
+            }
+            set
+            {
+                this.box_name = value;
+            }
+        }
+    }
+}
 ```
 
-```cs
-```
+Calling int
 
 ```cs
+using System;
+
+namespace AObjects
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Human part
+            Human peter = new Human("Peter", "Smith", 27);
+            Human sam = new Human();
+            Human withOut = new Human("Calix", "Megan");
+            peter.salute();
+            sam.salute();
+            withOut.salute();
+
+            // Box part
+            Box firstBox = new Box(1.35f, 5.4f, 1.98f);
+            Console.WriteLine("The box volumen is {0}", firstBox.get_volumen());
+            firstBox.BoxName = "Juice Box";
+            Console.WriteLine("The name box is: {0}", firstBox.BoxName);
+            Console.ReadLine();
+        }
+    }
+}
+```
+
+Simplified the set/get process
+
+```cs
+public string BoxName
+        {
+            get
+            {
+                return this.box_name;
+            }
+            set
+            {
+                this.box_name = value;
+            }
+        }
+
+// Instead of
+
+public string BoxName
+        {
+            get => this.box_name;
+            set => this.box_name = value;
+        }
+
+```
+## Members
+
+```cs
+using System;
+
+namespace AObjects
+{
+    class Members
+    {
+        // members can be private fields
+        private string first_name;
+        private string last_name;
+        private float amount;
+
+        // member can be public fields
+        public int age;
+
+        // members as properties
+        public int MyProperty { get; set; }
+
+        // members as private methods
+        private void SharePrivateInfo(){}
+
+        // members as public methods
+        public void SharePublicInfo() {}
+
+        // constructor
+        public Members(){}
+
+        // members finisher/destroyer
+        ~Members()
+        {
+            Console.WriteLine("I had destroyed the class");
+            Console.ReadLine();
+        }
+
+
+    }
+}
+
 ```
 
 ```cs
