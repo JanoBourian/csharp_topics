@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\obj\Debug\03Loops.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\obj\Debug\03Loops.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\bin\Debug\03Loops.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\bin\Debug\03Loops.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\bin\Debug\03Loops.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\obj\Debug\03Loops.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\03Loops\obj\Debug\03Loops.pdb
