@@ -17,6 +17,18 @@ namespace _02Control
                 Console.WriteLine("No fue posible");
                 Console.ReadLine();
             }
+
+
+            /*
+             
+            if(){
+            }
+            else if(){
+            } 
+            else{
+            }
+
+             */
         }
 
         public static string InsertName()

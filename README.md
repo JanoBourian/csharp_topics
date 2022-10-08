@@ -230,10 +230,37 @@ namespace _02Control
 
 ```
 
-```cs
-```
+## Control with switch statment
 
 ```cs
+using System;
+
+namespace Switch{
+
+    static void Main(string[] args){
+        int autos = 1;
+        
+        switch(autos){
+            case 0:
+                Consolde.WriteLine("Caso de 0");
+                break;
+            case 1:
+                Consolde.WriteLine("Caso de 1");
+                break;
+            default:
+                Consolde.WriteLine("Usted paga bastantes impuestos");
+                break;
+        }
+    }
+}
+```
+
+## Ternary Operator
+
+```cs
+// condition ? first_statement : second_statment
+result = temperatura < 0 ? "Cold" : "Warm";
+result = temperatura >= 100 ? "Gas" : temperatura <= 0 ? "Ice" : "Liquid";
 ```
 
 ```cs
