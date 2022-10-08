@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\bin\Debug\AObjects.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\bin\Debug\AObjects.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\bin\Debug\AObjects.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\obj\Debug\AObjects.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\obj\Debug\AObjects.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\obj\Debug\AObjects.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\AObjects\obj\Debug\AObjects.pdb
