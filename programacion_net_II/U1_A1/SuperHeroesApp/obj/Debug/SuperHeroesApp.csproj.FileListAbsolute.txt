@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\bin\Debug\SuperHeroesApp.exe.config
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\bin\Debug\SuperHeroesApp.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\bin\Debug\SuperHeroesApp.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\obj\Debug\SuperHeroesApp.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\obj\Debug\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\obj\Debug\SuperHeroesApp.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_A1\SuperHeroesApp\obj\Debug\SuperHeroesApp.pdb
