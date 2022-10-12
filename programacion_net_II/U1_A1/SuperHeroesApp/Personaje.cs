@@ -70,16 +70,13 @@ namespace SuperHeroesApp
             get => this.creador;
             set => this.creador = value;
         }
-
         public bool EsHumano
         {
             get => this.esHumano;
             set => this.esHumano = value;
         }
-
         public string[] TotalPoderes
         {
-            get => this.totalPoderes;
             set => this.totalPoderes = value;
         }
 
@@ -94,14 +91,16 @@ namespace SuperHeroesApp
         // Retorna la Ficha Técnica
         public void fichaTecnica()
         {
+            // Regresa los datos técnicos del personaje con base en la información proporcionada en la actividad
             Console.WriteLine(
-                "Nombre Personaje: {0}\nNombre Real: {1}\nPrimera Aparicion New 52: {2}\nTotal Poderes: {3}\nArtista: {4}\nCreador: {5}\nEs humano: {6}\n",
-                this.nombrePersonaje, this.nombreReal, this.primeraAparicionNew52, this.totalPoderes, this.artista, this.creador, this.esHumano
+                "Nombre Personaje: {0}\nNombre Real: {1}\nPrimera Aparicion New 52: {2}\nArtista: {3}\nCreador: {4}\nEs humano: {5}\n",
+                this.nombrePersonaje, this.nombreReal, this.primeraAparicionNew52, this.artista, this.creador, this.esHumano
                 );
         }
 
         public void estadoActual()
         {
+            // Regresa los valores relevantes a la pelea.
             Console.WriteLine(
                 "Puntos de Experiencia: {0}\nNivel Fisico: {1}\nNivel Cansancio: {2}\nPeleas Hoy: {3}\n",
                 this.puntosDeExperiencia, this.nivelFisico, this.nivelCansancio, this.peleasHoy
@@ -111,6 +110,7 @@ namespace SuperHeroesApp
         // Modificar los puntos de experiencia
         public void pelea()
         {
+            // Aquí se modifican todos los valores cada vez que se pelea
             if (this.peleasHoy < 10)
             {
                 this.peleasHoy++;
@@ -136,7 +136,12 @@ namespace SuperHeroesApp
         // Seleccionar de manera aleatoria un poder
         public string returnPoder()
         {
-            return "HOLA";
+            /* para este método se toma el valor del tamaño del array de poderes y con ello
+             * se selecciona un número aleatorio entre 0 y (tamaño - 1) para seleccionar un 
+             * poder al azar*/
+            Random random = new Random();
+            int indice = random.Next(0, this.totalPoderes.Length - 1);
+            return totalPoderes[indice];
         }
 
 
