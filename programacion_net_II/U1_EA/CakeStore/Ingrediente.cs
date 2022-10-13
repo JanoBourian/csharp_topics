@@ -59,7 +59,8 @@ namespace CakeStore
         // Informacion del Ingrediente
         public void informacion()
         {
-            Console.WriteLine("\nNombre: {0}\nTipo: {1}\nRendimiento: {2}\nCalorias: {3}\nPrecio: {4}\n********\n", this.nombreIngrediente, this.tipo, this.MedidaRendimiento, this.Calorias, this.Precio);
+            Console.WriteLine("\nNombre: {0}\nTipo: {1}\nRendimiento: {2}\nCalorias: {3}\nPrecio: {4}\n********\n", 
+                this.nombreIngrediente, this.tipo, this.MedidaRendimiento, this.Calorias, this.Precio);
         }
     }
 }

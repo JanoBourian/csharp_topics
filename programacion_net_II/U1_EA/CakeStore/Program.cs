@@ -42,6 +42,7 @@ namespace CakeStore
             {
                 for(int i = 0; i < listaIngredientes.Length; i++)
                 {
+                    // Para la sobrecarga de métodos solicitada
                     p.RevisarIngrediente(listaIngredientes[i], pastel.peso);
                     p.RevisarIngrediente(listaIngredientes[i]);
                 }
