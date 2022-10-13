@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\bin\Debug\CakeStore.exe.config
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\bin\Debug\CakeStore.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\bin\Debug\CakeStore.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\obj\Debug\CakeStore.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\obj\Debug\CakeStore.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\obj\Debug\CakeStore.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U1_EA\CakeStore\CakeStore\obj\Debug\CakeStore.pdb
