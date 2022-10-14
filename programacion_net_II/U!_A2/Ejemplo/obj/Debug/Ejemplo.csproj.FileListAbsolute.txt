@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\obj\Debug\Ejemplo.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U!_A2\Ejemplo\obj\Debug\Ejemplo.pdb
