@@ -22,6 +22,8 @@ namespace Arrays
                 Console.WriteLine("Ingresa la calificación para el alumno es: {0}", k);
             }
 
+            string[,,,] multidimensional;
+
             Console.ReadLine();
         }
     }
