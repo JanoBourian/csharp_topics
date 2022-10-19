@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrregularArrays", "IrregularArrays.csproj", "{B079E049-3B61-4838-B35D-BE1626CB5EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B079E049-3B61-4838-B35D-BE1626CB5EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B079E049-3B61-4838-B35D-BE1626CB5EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B079E049-3B61-4838-B35D-BE1626CB5EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B079E049-3B61-4838-B35D-BE1626CB5EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8102C8-4480-4E16-9FB7-4C4B938785FA}
+	EndGlobalSection
+EndGlobal

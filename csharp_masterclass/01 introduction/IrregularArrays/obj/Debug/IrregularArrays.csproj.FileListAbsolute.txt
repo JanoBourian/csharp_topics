@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\bin\Debug\IrregularArrays.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\bin\Debug\IrregularArrays.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\bin\Debug\IrregularArrays.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\obj\Debug\IrregularArrays.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\obj\Debug\IrregularArrays.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\obj\Debug\IrregularArrays.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\IrregularArrays\obj\Debug\IrregularArrays.pdb
