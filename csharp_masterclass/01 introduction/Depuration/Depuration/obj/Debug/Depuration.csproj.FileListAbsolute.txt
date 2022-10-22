@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\obj\Debug\Depuration.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\obj\Debug\Depuration.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\bin\Debug\Depuration.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\bin\Debug\Depuration.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\bin\Debug\Depuration.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\obj\Debug\Depuration.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\01 introduction\Depuration\Depuration\obj\Debug\Depuration.pdb
