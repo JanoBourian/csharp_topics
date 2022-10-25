@@ -29,14 +29,6 @@ Scholar and job topics about that language
 * [Advanced]
 * [Events]
 
-```cs
-```
-
-```cs
-```
-
-```cs
-```
 
 ```cs
 ```

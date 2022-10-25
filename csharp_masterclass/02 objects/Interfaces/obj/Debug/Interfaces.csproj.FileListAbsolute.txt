@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Interfaces\obj\Debug\Interfaces.pdb

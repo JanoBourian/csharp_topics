@@ -273,4 +273,92 @@ namespace Inheritance
 
 # Interfaces
 
+The interfaces have the definition of methods that the child class must inheritance of them. Interface has the definiton and his child has the implementation and the information about the methods. 
+
+## Interface: Notification
+
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interfaces
+{
+    interface INotification
+    {
+        void showNotification();
+        string showDateNow();
+    }
+}
+```
+
+## Unsing INotification as PushNotification
+
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interfaces
+{
+    class PushNotification: INotification
+    {
+
+        private string sender;
+        private string message;
+        private string date;
+
+        public string Sender { get => this.sender; set => this.sender = value; }
+        public string Message { get => this.message; set => this.message = value; }
+        public string Date { get => this.date; set => this.date = value; }
+
+        public PushNotification(string sender, string message, string date)
+        {
+            Sender = sender;
+            Message = message;
+            Date = date; 
+        }
+        public void showNotification()
+        {
+            Console.WriteLine(Message);
+        }
+
+        public string showDateNow()
+        {
+            return Date;
+        }
+    }
+}
+
+```
+
+## Implementating
+
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interfaces
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            PushNotification message = new PushNotification("Janobourian", "Hello my friend, I need your help with a problem in GCP", "25/10/2022");
+            Console.WriteLine("The date is: {0}", message.showDateNow());
+            message.showNotification();
+            Console.ReadLine();
+        }
+    }
+}
+
+```
+
 ## [Return to index](/README.md)
