@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Inheritance\obj\Debug\Inheritance.pdb
