@@ -25,19 +25,14 @@ Scholar and job topics about that language
     * List
 * [Debug]
 * [Inheritance](docs/08inheritance.md)
+    * Interfaces
+    * Abstract Classes
+    * Sealed classes
 * [Polymorphism]
 * [Advanced]
 * [Events]
 
 
-```cs
-```
-
-```cs
-```
-
-```cs
-```
 ```cs
 ```
 

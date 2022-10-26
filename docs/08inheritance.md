@@ -361,4 +361,72 @@ namespace Interfaces
 
 ```
 
+# Abstract Class
+
+An abstract class can't be instantiated.
+
+
+## Abstract Class
+
+```cs
+abstract class Persona{
+    protected string name;
+    protected char sexo;
+    protected int edad;
+
+    public Persona(string nombre, char sexo, int edad){
+        this.nombre = nombre;
+        this.sexo = sexo;
+        this.edad = edad;
+    }
+
+    public void Informacion(){
+        Console.WriteLine("Information: ");
+    }
+
+    public abstract void Identificacion();
+}
+```
+
+## Using Abstract Class
+
+```cs
+class Docente: Persona{
+    private int tarjeta;
+
+    public Docente(string nombre, char sexo, int edad, int tarjeta) : base(nombre, sexo, edad){
+        this.tarjeta = tarjeta;
+    }
+
+    public void totalInformation(){
+        Informacion();
+        Console.WriteLine("Additional information!");
+    }
+
+    public override void Identificacion(){
+        Console.WriteLine("Card: {0}", this.tarjeta);
+    }
+
+}
+```
+
+## Sealed classes
+
+And now we are going to set a sealed class using the last class Docente
+
+```cs
+sealed class Jefe: Docente{
+    private string departamento:
+
+    public Jefe(string nombre, char sexo, int edad, int tarjeta, string departamento) : base(nombre, sexo, edad, tarjeta) {
+        this.departamento = departamento;
+    }
+
+    new public void Informacion(){
+        Console.WriteLine("New code for the Informacion() method!");
+    }
+}
+```
+
+
 ## [Return to index](/README.md)
