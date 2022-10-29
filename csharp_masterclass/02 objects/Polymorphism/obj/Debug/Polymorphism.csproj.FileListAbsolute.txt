@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\super\Documents\csharp_topics\csharp_masterclass\02 objects\Polymorphism\obj\Debug\Polymorphism.pdb
