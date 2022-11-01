@@ -6,20 +6,22 @@ using System.Threading.Tasks;
 
 namespace Banco
 {
-    class CuentaAhorro: CuentaBancaria
+    class CuentaAhorro : CuentaBancaria
     {
         private string fechaAhorro;
         private double gananciaMensual;
 
-        public string FechaAhorro { 
-            get => this.fechaAhorro; 
-            set => this.fechaAhorro = value; 
+        public string FechaAhorro
+        {
+            get => this.fechaAhorro;
+            set => this.fechaAhorro = value;
         }
-        public double GananciaMensual { 
-            get => this.gananciaMensual; 
-            set => this.gananciaMensual = value; 
+        public double GananciaMensual
+        {
+            get => this.gananciaMensual;
+            set => this.gananciaMensual = value;
         }
-        public CuentaAhorro(int numero, string tipo, double saldo, string fechaAhorro, double gananciaMensual): base(numero, tipo, saldo)
+        public CuentaAhorro(int numero, string tipo, double saldo, string fechaAhorro, double gananciaMensual) : base(numero, tipo, saldo)
         {
             FechaAhorro = fechaAhorro;
             GananciaMensual = gananciaMensual;

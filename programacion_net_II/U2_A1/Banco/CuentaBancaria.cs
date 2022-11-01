@@ -14,24 +14,27 @@ namespace Banco
         protected double saldo;
 
         // Accesos a las propiedades
-        public int Numero { 
-            get => this.numero; 
-            set => this.numero = value; 
+        public int Numero
+        {
+            get => this.numero;
+            set => this.numero = value;
         }
-        public string Tipo { 
-            get => this.tipo; 
-            set => this.tipo = value; 
+        public string Tipo
+        {
+            get => this.tipo;
+            set => this.tipo = value;
         }
-        public double Saldo { 
-            get => this.saldo; 
-            set => this.saldo = value; 
+        public double Saldo
+        {
+            get => this.saldo;
+            set => this.saldo = value;
         }
 
         public CuentaBancaria(int numero, string tipo, double saldo) // Constructor
         {
             Numero = numero;
             Tipo = tipo;
-            Saldo = saldo; 
+            Saldo = saldo;
         }
 
         public void mostrarInformacion() // Método mostrar información

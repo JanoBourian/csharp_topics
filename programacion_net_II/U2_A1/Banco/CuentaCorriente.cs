@@ -6,19 +6,21 @@ using System.Threading.Tasks;
 
 namespace Banco
 {
-    class CuentaCorriente: CuentaBancaria
+    class CuentaCorriente : CuentaBancaria
     {
         private string fechaPago;
         private double comisionPago;
 
-        public string FechaPago { 
-            get => this.fechaPago; 
-            set => this.fechaPago = value; 
+        public string FechaPago
+        {
+            get => this.fechaPago;
+            set => this.fechaPago = value;
         }
 
-        public double ComisionPago { 
-            get => this.comisionPago; 
-            set => this.comisionPago = value; 
+        public double ComisionPago
+        {
+            get => this.comisionPago;
+            set => this.comisionPago = value;
         }
 
         public CuentaCorriente(int numero, string tipo, double saldo, string fechaPago, double comisionPago) : base(numero, tipo, saldo)
@@ -26,7 +28,7 @@ namespace Banco
             FechaPago = fechaPago;
             ComisionPago = comisionPago;
         }
-        
+
         public void comision()
         {
             Saldo -= ComisionPago;

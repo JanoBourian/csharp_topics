@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F2B4B40A-AA49-463B-BC6B-E62D7FBC4774}</ProjectGuid>
+    <ProjectGuid>{50869456-CD3D-4FA0-B87A-FED1CDAD4E5B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Banco</RootNamespace>
     <AssemblyName>Banco</AssemblyName>
@@ -46,7 +46,6 @@
     <Compile Include="CuentaAhorro.cs" />
     <Compile Include="CuentaBancaria.cs" />
     <Compile Include="CuentaCorriente.cs" />
-    <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
