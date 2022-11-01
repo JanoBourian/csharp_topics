@@ -28,7 +28,8 @@ Scholar and job topics about that language
     * Interfaces
     * Abstract Classes
     * Sealed classes
-* [Polymorphism]
+* [Polymorphism](docs/09polymorphism.md)
+* [Read&Write](docs/10readandwrite.md)
 * [Advanced]
 * [Events]
 

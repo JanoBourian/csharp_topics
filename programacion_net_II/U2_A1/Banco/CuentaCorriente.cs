@@ -26,12 +26,6 @@ namespace Banco
             FechaPago = fechaPago;
             ComisionPago = comisionPago;
         }
-
-        public void informacionCuentaAhorro()
-        {
-            mostrarInformacion();
-            Console.WriteLine("Fecha Pago: {0}\nComision Pago: {1}", FechaPago, ComisionPago);
-        }
         
         public void comision()
         {

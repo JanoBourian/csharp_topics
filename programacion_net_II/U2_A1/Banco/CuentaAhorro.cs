@@ -29,11 +29,5 @@ namespace Banco
         {
             Saldo += GananciaMensual;
         }
-
-        public void informacionCuentaAhorro()
-        {
-            mostrarInformacion();
-            Console.WriteLine("Fecha Ahorro: {0}\nGanancia Mensual: {1}", FechaAhorro, GananciaMensual);
-        }
     }
 }
