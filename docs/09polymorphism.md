@@ -1,10 +1,19 @@
 # Polymorphism
 
+Keywords: virtual, sealed, override, new
+
+# Init info about Polymorphism
+
+* We can use "generic classes"
+* We have overcharge, parametric and inclusion polymorphism
+* Parametric as LinealEcuation -> CuadraticEcuation -> EvalEcuation
+* Inclusion as virtual and override
+
 ## First Implementation
 
 The derivate class should has a override statement and the class superior should has a virtual statement. 
 We only can close override methods. 
-Keywords: virtual, sealed, override, new
+
 
 ```cs
 using System;
