@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\bin\Debug\Tesla.exe.config
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\bin\Debug\Tesla.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\bin\Debug\Tesla.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\obj\Debug\Tesla.csproj.AssemblyReference.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\obj\Debug\Tesla.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\obj\Debug\Tesla.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U2_EA\Tesla\obj\Debug\Tesla.pdb
