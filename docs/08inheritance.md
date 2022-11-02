@@ -1,5 +1,18 @@
 # Inheritance
 
+Keywords: abstract, override, sealed, new, interface. 
+
+## Init info
+
+* We only have simple/linea inheritance
+* We have abstract class only for describe attributes and methods, but these abstract class can't be instanced (abstract class Persona{})
+* The abstract class can be inheritanced, but not implemented.
+* The methods can be abstract, and these can be public or protected. (public | protected abstract type name(parameters){})
+* The abstract methods need to be instanced like override statement. (public | protected override type name(parameters){})
+* The "sealed" statement point the end of a inheritance process, something like Final class or final implementation.
+* The "new" statement ocults directly the info in the superior class (new public | protected type name(parameters){})
+* We can use interface as many times as we need it.
+
 ## Some concepts
 - protected: it is only available in its class and the classes that inheritance its.
 
