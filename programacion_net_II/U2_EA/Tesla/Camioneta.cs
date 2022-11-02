@@ -18,10 +18,10 @@ namespace Tesla
         public double crearCamioneta(double presupuesto)
         {
             // Una vez que se crea se reduce el costo del presupuesto mensual
-            return presupuesto - costoCamioneta();
+            return presupuesto - costo();
         }
 
-        public double costoCamioneta()
+        public override double costo()
         {
             return numeroPanel * costoPanel + numeroBateria * costoBateria + numeroCableado * costoCableado + numeroModulo * costoModulo + numeroMotores * costoMotor + numeroLaminados * costoAcabado;
         }

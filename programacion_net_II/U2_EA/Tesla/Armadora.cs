@@ -42,7 +42,7 @@ namespace Tesla
                 {
                     case 1:
                         Auto autoActual = new Auto();
-                        if(esPosible(presupuestoMensual, autoActual.costoAuto()))
+                        if(esPosible(presupuestoMensual, autoActual.costo()))
                         {
                             presupuestoMensual = autoActual.crearAuto(presupuestoMensual);
                             totalAutos += 1;
@@ -55,7 +55,7 @@ namespace Tesla
                         break;
                     case 2:
                         Camioneta camionetaActual = new Camioneta();
-                        if (esPosible(presupuestoMensual, camionetaActual.costoCamioneta()))
+                        if (esPosible(presupuestoMensual, camionetaActual.costo()))
                         {
                             presupuestoMensual = camionetaActual.crearCamioneta(presupuestoMensual);
                             totalCamionetas += 1;
@@ -68,7 +68,7 @@ namespace Tesla
                         break;
                     default:
                         Van vanActual = new Van();
-                        if (esPosible(presupuestoMensual, vanActual.costoVan()))
+                        if (esPosible(presupuestoMensual, vanActual.costo()))
                         {
                             presupuestoMensual = vanActual.crearVan(presupuestoMensual);
                             totalVan += 1;
