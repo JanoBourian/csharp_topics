@@ -29,22 +29,11 @@ Scholar and job topics about that language
     * Abstract Classes
     * Sealed classes
 * [Polymorphism](docs/09polymorphism.md)
-* [Read&Write](docs/10readandwrite.md)
+* [Errors](docs/10errors.md)
+* [Read&Write](docs/11readandwrite.md)
 * [Advanced]
 * [Events]
 
-
-```cs
-```
-
-```cs
-```
-
-```cs
-```
-
-```cs
-```
 
 ```cs
 ```
