@@ -11,7 +11,8 @@ namespace Tesla
         /*
          * La clase Vehículo es el núcleo de la Armadora Tesla ya aquí se centralizan los precios
          * o Costos de las piezas.          * 
-         * Por otro lado aquí es posible venir a cambiar los costos y con ello las demás clases heredan.
+         * Por otro lado aquí es posible venir a cambiar los costos y con ello las demás clases heredan dichos cambios
+         * ocultando los movimientos de los costos y centralizando dichos cambios.
          */ 
         protected double costoPanel = 1650.0;
         protected double costoBateria = 890.0;
