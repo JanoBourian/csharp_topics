@@ -40,11 +40,6 @@ Scholar and job topics about that language
 
 ```cs
 ```
-```cs
-```
-
-```cs
-```
 
 ```cs
 ```
