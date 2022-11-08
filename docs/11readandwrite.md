@@ -48,5 +48,24 @@ Readlines or files is too much easy
             }
 ```
 
+## Extra ways to write or read files
+
+
+```cs
+try{
+    string file = "C:\\puntonet\\temp.txt";
+    FileStream fs = new FileStream(file, FileMode.OpenOrCreate, FileAccess.Write);
+    StreamWriter sw = new StreamWriter(fs);
+    sw.WriteLine("Hello");
+    sw.Close();
+} catch(DirectoryNotFoundException dnfe){
+    Consol.WriteLine("ERROR: You should create the directory");
+}
+catch(IOException ioe){
+    Console.WriteLine("ERROR: {0}", ioe.ToString());
+}finally{
+    Console.WriteLine("All is fine");
+}
+```
 
 ## [Return to index](/README.md)
