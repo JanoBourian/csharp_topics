@@ -33,14 +33,52 @@ namespace Errors
     }
 }
 ```
+## We can implement our errors
 
 ```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Errors
+{
+    class AgeOutRange : ApplicationException
+    {
+        public AgeOutRange() : base("You inserted a invalid value (out of range)")
+        {
+
+        }
+
+        public AgeOutRange(string message): base(message)
+        {
+
+        }
+
+        public AgeOutRange(string message, Exception es): base(message, es)
+        {
+
+        }
+    }
+}
+
 ```
 
-```cs
-```
+Using our personal error:
 
 ```cs
+if(age < 18 || age > 65){
+    throw new AgeOutRange();
+}
+```
+
+Second implementation:
+
+```cs
+if(age < 18 || age > 65){
+    throw new AgeOutRange("Age out of range, my friend");
+}
 ```
 
 ## [Return to index](/README.md)

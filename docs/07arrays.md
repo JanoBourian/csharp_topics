@@ -5,6 +5,26 @@
 ```cs
 int [] calificaciones;
 int [] calificaciones = new int[5];
+int [] calificaciones = new int[] { 1, 2, 3, 4};
+int [] calificaciones = { 1, 2, 3, 4};
+string[,,,] multidimensional;
+int[,] data = new int[5,4];
+int[][] data = new int[3][];
+Alumno[] listAlumnos = new Alumno[4];
+ArrayList miArray = new ArrayList();
+ArrayList miSecondArray = new ArrayList(100);
+var numeros = new List<int>();
+var randomValues = new List<object>();
+List<string> lista = new List<string>();
+lista.FindIndex(x => x == "Pedro");
+// Colas
+Queue<string> cola = new Queue<string>();
+cola.Enqueue(value);
+cola.Dequeue();
+// Pilas
+Stack<string> pila = new Stack<string>();
+pila.Push(value);
+pila.Pop();
 ```
 
 ### Initialize arrays and Length
