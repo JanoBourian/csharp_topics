@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace ErrorSolution
@@ -27,13 +24,18 @@ namespace ErrorSolution
                     }
                 }
                 sw.Close();
-            }catch(UnauthorizedAccessException uae)
-            {
-                Console.WriteLine("ERROR: {0}", uae.ToString());
             }
             catch (DirectoryNotFoundException dnfe)
             {
                 Console.WriteLine("ERROR: {0}", dnfe.ToString());
+            }
+            catch (FileNotFoundException fnfe)
+            {
+                Console.WriteLine("ERROR: {0}", fnfe.ToString());
+            }
+            catch (UnauthorizedAccessException uae)
+            {
+                Console.WriteLine("ERROR: {0}", uae.ToString());
             }
             catch(IOException ioe)
             {
