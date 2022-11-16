@@ -1,0 +1,7 @@
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\bin\Debug\ErrorSolution.exe.config
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\bin\Debug\ErrorSolution.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\bin\Debug\ErrorSolution.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\obj\Debug\ErrorSolution.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\obj\Debug\ErrorSolution.exe
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\obj\Debug\ErrorSolution.pdb
+C:\Users\super\Documents\csharp_topics\programacion_net_II\U3_A1\ErrorSolution\obj\Debug\ErrorSolution.csproj.AssemblyReference.cache
